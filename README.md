@@ -1,8 +1,8 @@
-#Установка
-npm install
+# Установка
+`npm install`
 
-#Запуск сервера
-npm run server
+# Запуск сервера
+`npm run server`
 
-#Добавить префиксы
-npm run build_css
+# Добавить префиксы в css
+`npm run build_css`
